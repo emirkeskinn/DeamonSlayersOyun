@@ -1,3 +1,2 @@
 # DeamonSlayersOyun
-# DeamonSlayersOyun
-# DeamonSlayersOyun
+Atıl hocanın kenny oyunundan derlenmiştir
